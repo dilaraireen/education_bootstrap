@@ -1,0 +1,95 @@
+@media (max-width: 320px){
+ .custom_navbar_toggler {
+     width: 43px;
+ }
+ .custom_navbar-toggler-icon {
+     width: 20px;
+ }
+
+}
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 321px) and (max-width: 575.98px) { 
+    
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+.about_school h1 {
+    text-align: center;
+}
+
+.about_school hr {
+    margin-left: 150px !important;
+}
+.about_school .about_school_img {
+    margin-left: 160px;
+}
+
+.about_img {
+    padding-top: 40px;
+}
+
+.memorable_moments_img{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.custom_memorable_btn {
+    margin-bottom: 20px;
+
+}
+
+.trustee_img {
+    text-align: center;
+}
+   
+ }
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .nav_link_custom {
+        font-size: 11px;
+    }
+
+    .about_school h1 {
+        text-align: center;
+    }
+
+    .about_school hr {
+        margin-left: 168px !important;
+    }
+
+    .about_school .about_school_img {
+        margin-left: 160px;
+    }
+
+    .about_img {
+        padding-top: 40px;
+        text-align: center;
+    }
+    .memorable_moments {
+        min-height: 821px !important;
+    }
+    span.counter {
+        font-size: 110px !important;}
+
+        .custom_footer_link span {
+            padding-left: -10px;
+        }
+
+        .custom_footer_link a{
+ 
+            font-size: 10px !important;
+        }
+        
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    
+ }
